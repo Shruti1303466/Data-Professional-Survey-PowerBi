@@ -32,5 +32,3 @@ The dashboard visualizes key metrics, distributions, and breakdowns to provide i
 ## Tools Used
 - Power BI for data visualization and dashboard creation.
 - Data sourced from survey responses (cleaned and transformed as needed).
-
-r any questions or collaborations, feel free to reach out!
